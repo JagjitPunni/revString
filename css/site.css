@@ -40,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--primary-color);
+  color: var(--dark-color);
 }
 
 code[class*='language-'],
@@ -78,5 +78,5 @@ main > .container {
 }
 
 .checklist > li i {
-  color: var(--primary-color);
+  color: var(--secondary-color);
 }
